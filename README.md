@@ -1,2 +1,2 @@
 # pl-standings
-A application that shows you the Premier League Standings
+An application that shows you the Premier League Standings
