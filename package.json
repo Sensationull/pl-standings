@@ -1,0 +1,36 @@
+{
+  "name": "pl-standings",
+  "version": "1.0.0",
+  "description": "An application that shows you the Premier League Standings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --open",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewjohnso7/pl-standings.git"
+  },
+  "keywords": [],
+  "author": "Andrew Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewjohnso7/pl-standings/issues"
+  },
+  "homepage": "https://github.com/andrewjohnso7/pl-standings#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "@babel/preset-react": "^7.8.3",
+    "babel-loader": "^8.0.6",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
